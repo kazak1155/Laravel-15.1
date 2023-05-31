@@ -34,7 +34,7 @@
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
                     <div>
-                        <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laravel финальная работа 15.1</h2>
+                        <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laravel финальная работа 15.1 </h2>
                     </div>
                 </div>
                 <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
